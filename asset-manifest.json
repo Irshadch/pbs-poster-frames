@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pbs-poster-frames/static/css/main.a5a6583d.chunk.css",
+    "main.js": "/pbs-poster-frames/static/js/main.2fe27eaa.chunk.js",
+    "main.js.map": "/pbs-poster-frames/static/js/main.2fe27eaa.chunk.js.map",
+    "runtime-main.js": "/pbs-poster-frames/static/js/runtime-main.1ccc7fa9.js",
+    "runtime-main.js.map": "/pbs-poster-frames/static/js/runtime-main.1ccc7fa9.js.map",
+    "static/css/2.98c34dc9.chunk.css": "/pbs-poster-frames/static/css/2.98c34dc9.chunk.css",
+    "static/js/2.1fd1d0dd.chunk.js": "/pbs-poster-frames/static/js/2.1fd1d0dd.chunk.js",
+    "static/js/2.1fd1d0dd.chunk.js.map": "/pbs-poster-frames/static/js/2.1fd1d0dd.chunk.js.map",
+    "static/js/3.22b30fed.chunk.js": "/pbs-poster-frames/static/js/3.22b30fed.chunk.js",
+    "static/js/3.22b30fed.chunk.js.map": "/pbs-poster-frames/static/js/3.22b30fed.chunk.js.map",
+    "index.html": "/pbs-poster-frames/index.html",
+    "static/css/2.98c34dc9.chunk.css.map": "/pbs-poster-frames/static/css/2.98c34dc9.chunk.css.map",
+    "static/css/main.a5a6583d.chunk.css.map": "/pbs-poster-frames/static/css/main.a5a6583d.chunk.css.map",
+    "static/js/2.1fd1d0dd.chunk.js.LICENSE.txt": "/pbs-poster-frames/static/js/2.1fd1d0dd.chunk.js.LICENSE.txt",
+    "static/media/pbs_logo.fc562c9d.png": "/pbs-poster-frames/static/media/pbs_logo.fc562c9d.png",
+    "static/media/welcome_poster.528fed64.png": "/pbs-poster-frames/static/media/welcome_poster.528fed64.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ccc7fa9.js",
+    "static/css/2.98c34dc9.chunk.css",
+    "static/js/2.1fd1d0dd.chunk.js",
+    "static/css/main.a5a6583d.chunk.css",
+    "static/js/main.2fe27eaa.chunk.js"
+  ]
+}
